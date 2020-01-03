@@ -21,7 +21,6 @@
             <outline text="Solar System and Beyond" type="rss" htmlUrl="http://www.nasa.gov/" xmlUrl="https://www.nasa.gov/rss/dyn/solar_system.rss"/>
             <outline text="Space &amp; Time News -- ScienceDaily" type="rss" htmlUrl="https://www.sciencedaily.com/news/space_time/" xmlUrl="https://www.sciencedaily.com/rss/space_time.xml"/>
             <outline text="Space Newsfeed" type="rss" htmlUrl="https://spacenewsfeed.com/index.php" xmlUrl="https://spacenewsfeed.com/index.php?format=feed&amp;type=rss"/>
-            <outline text="Space.com" type="rss" htmlUrl="https://www.space.com/feeds/all" xmlUrl="https://www.space.com/feeds/all"/>
             <outline text="Space.com" type="rss" htmlUrl="https://www.space.com/feeds/all" xmlUrl="https://space.com/home/feed/site.xml"/>
             <outline text="Spaceflight Now" type="rss" htmlUrl="https://spaceflightnow.com" xmlUrl="https://spaceflightnow.com/feed"/>
             <outline text="SpaceQ" type="rss" htmlUrl="https://spaceq.ca" xmlUrl="https://spaceq.ca/feed"/>
