@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>QuiteRSS</title>
+        <dateModified>Fr. Jan. 3 17:11:34 2020</dateModified>
+    </head>
+    <body>
+        <outline text="SpaceNews">
+            <outline text="Abenteuer Astronomie" type="rss" htmlUrl="https://abenteuer-astronomie.de" xmlUrl="https://abenteuer-astronomie.de/feed/"/>
+            <outline text="astro!nfo - die aktuelle Himmelsübersicht" type="rss" htmlUrl="https://news.astronomie.info/" xmlUrl="https://www.astronomie.info/news/rss-bulletin.xml"/>
+            <outline text="Astronomie in Norddeutschland" type="rss" htmlUrl="https://astronomie-nord.de" xmlUrl="https://astronomie-nord.de/feed/"/>
+            <outline text="Astronomie.de - Der große Feed mit allen News" type="rss" htmlUrl="https://www.astronomie.de/rss.xml" xmlUrl="https://www.astronomie.de/rss.xml"/>
+            <outline text="DLR - Blogs - Alle Blogeinträge" type="rss" htmlUrl="https://www.dlr.de/blogs/" xmlUrl="http://feeds.feedburner.com/DLR_blogs"/>
+            <outline text="EarthSky" type="rss" htmlUrl="https://earthsky.org" xmlUrl="http://earthsky.org/feed"/>
+            <outline text="https://www.spacex.com/news.xml" type="rss" htmlUrl="https://www.spacex.com/news/H8DBOPBGVB" xmlUrl="https://www.spacex.com/news.xml"/>
+            <outline text="ISS On-Orbit Status Report" type="rss" htmlUrl="https://blogs.nasa.gov/stationreport" xmlUrl="http://blogs.nasa.gov/stationreport/feed/"/>
+            <outline text="NASA Breaking News" type="rss" htmlUrl="http://www.nasa.gov/" xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss"/>
+            <outline text="NASA Image of the Day" type="rss" htmlUrl="http://www.nasa.gov/" xmlUrl="https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss"/>
+            <outline text="News" type="rss" htmlUrl="http://astronomy.com/rss/news" xmlUrl="https://astronomy.com/rss/news"/>
+            <outline text="Phys.org - latest science and technology news stories" type="rss" htmlUrl="https://phys.org/" xmlUrl="https://phys.org/rss-feed"/>
+            <outline text="Solar System and Beyond" type="rss" htmlUrl="http://www.nasa.gov/" xmlUrl="https://www.nasa.gov/rss/dyn/solar_system.rss"/>
+            <outline text="Space &amp; Time News -- ScienceDaily" type="rss" htmlUrl="https://www.sciencedaily.com/news/space_time/" xmlUrl="https://www.sciencedaily.com/rss/space_time.xml"/>
+            <outline text="Space Newsfeed" type="rss" htmlUrl="https://spacenewsfeed.com/index.php" xmlUrl="https://spacenewsfeed.com/index.php?format=feed&amp;type=rss"/>
+            <outline text="Space.com" type="rss" htmlUrl="https://www.space.com/feeds/all" xmlUrl="https://www.space.com/feeds/all"/>
+            <outline text="Space.com" type="rss" htmlUrl="https://www.space.com/feeds/all" xmlUrl="https://space.com/home/feed/site.xml"/>
+            <outline text="Spaceflight Now" type="rss" htmlUrl="https://spaceflightnow.com" xmlUrl="https://spaceflightnow.com/feed"/>
+            <outline text="SpaceQ" type="rss" htmlUrl="https://spaceq.ca" xmlUrl="https://spaceq.ca/feed"/>
+            <outline text="SpaceRef" type="rss" htmlUrl="http://spaceref.com/" xmlUrl="http://feeds.feedburner.com/spaceref/jext"/>
+            <outline text="SpaceWeatherLive RSS" type="rss" htmlUrl="https://www.spaceweatherlive.com" xmlUrl="https://www.spaceweatherlive.com/rss_news.xml"/>
+            <outline text="Weltraum aktuell - Weltraum aktuell" type="rss" htmlUrl="https://www.weltraum-aktuell.de/index.php" xmlUrl="https://www.weltraum-aktuell.de/index.php?format=feed&amp;type=rss"/>
+            <outline text="Wissenschaft-aktuell" type="rss" htmlUrl="https://www.wissenschaft-aktuell.de" xmlUrl="https://www.wissenschaft-aktuell.de/onTEAM/WSA-Weltraum.xml"/>
+            <outline text="SPIEGEL ONLINE - Wissenschaft" type="rss" htmlUrl="https://www.spiegel.de" xmlUrl="https://www.spiegel.de/wissenschaft/weltall/index.rss"/>
+        </outline>
+    </body>
+</opml>
